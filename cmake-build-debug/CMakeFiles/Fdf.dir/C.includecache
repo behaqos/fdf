@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dpenney/Desktop/Fdf/fdf.h
+./libft/includes/libft.h
+/Users/dpenney/Desktop/Fdf/libft/includes/libft.h
+minilibx_mms_20191025_beta/mlx.h
+/Users/dpenney/Desktop/Fdf/minilibx_mms_20191025_beta/mlx.h
+fcntl.h
+/Users/dpenney/Desktop/Fdf/fcntl.h
+
+/Users/dpenney/Desktop/Fdf/libft/includes/bbtree_utils.h
+stdlib.h
+-
+
+/Users/dpenney/Desktop/Fdf/libft/includes/libft.h
+string.h
+-
+stdlib.h
+-
+unistd.h
+-
+bbtree_utils.h
+/Users/dpenney/Desktop/Fdf/libft/includes/bbtree_utils.h
+
+/Users/dpenney/Desktop/Fdf/minilibx_mms_20191025_beta/mlx.h
+
+/Users/dpenney/Desktop/Fdf/read_file.c
+fdf.h
+/Users/dpenney/Desktop/Fdf/fdf.h
+
